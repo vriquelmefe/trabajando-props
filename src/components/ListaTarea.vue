@@ -16,8 +16,6 @@ export default {
       type: String,
     },
   },
-  methods: {
-  }
   
 }
 
